@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NodeJS, ExpressJS**
 
-- 👨‍💻 All of my projects are available at [https://thangtranvanportfolio.netlify.app/](https://thangtranvanportfolio.netlify.app/)
+- 👨‍💻 My porfolio [https://thangtranvanportfolio.netlify.app/](https://thangtranvanportfolio.netlify.app/)
 
 - 📫 How to reach me **trvictor2512@gmail.com**
 
